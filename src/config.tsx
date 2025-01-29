@@ -1,1 +1,1 @@
-export const PUBLISH_NETWORK = "devnet";
+export const PUBLISH_NETWORK = "mainnet";
