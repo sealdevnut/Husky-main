@@ -12,6 +12,7 @@ yarn dev
 
 ```bash
 npm install
+npm run dev
 # or
 yarn install
 ```
